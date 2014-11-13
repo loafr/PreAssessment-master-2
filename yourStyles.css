@@ -1,0 +1,31 @@
+body {
+  background-color: #e3e3e3;
+}
+
+.row-one {
+  width: 100%;
+  height: 25%;
+  border: 1px solid #000;
+  background: #99FF66; 
+}
+
+.row-two {
+  width: 100%;
+  height: 25%;
+  border: 1px solid #000;
+  background: #FFFF99;
+}
+
+.row-three {
+  width: 100%;
+  height: 25%;
+  border: 1px solid #000;
+  background: #FF0000;
+}
+
+.row-four {
+  width: 100%;
+  height: 25%;
+  border: 1px solid #000;
+  background: #0099FF;
+}
